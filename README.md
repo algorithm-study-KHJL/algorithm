@@ -31,5 +31,5 @@
 ## 학습 내용 포스팅 링크
 | 스터디 회차 | [김지수](https://github.com/JisooKim-f1b) | [이채연](https://github.com/202002538) | [정지은](https://github.com/ssstopeun) | [현상혁](https://github.com/gmelon) |
 | :---: | :---: | :---: | :---: | :---: |
-| 1회차 | [DP](https://tranquil-trumpet-3a4.notion.site/1-DP-082531614bef47f68fd8b448238bc818) |  | [SORT - H-Index](https://righteous-galette-116.notion.site/H-Index-a2ab09c7fb0747b695326cd58ccc1264) | [DP - 등굣길](https://sh-hyun.tistory.com/82) |
-| 2회차 | [그래프](https://tranquil-trumpet-3a4.notion.site/2-DFS-BFS-7fb0861e725f44c8affb94247357389e) |  | [그래프 - 단어변환](https://righteous-galette-116.notion.site/e0b4c64b284f4df0bf8a21fc6442b8d3) | [그래프 - 네트워크](https://sh-hyun.tistory.com/88) |
+| 1회차 | [DP](https://tranquil-trumpet-3a4.notion.site/1-DP-082531614bef47f68fd8b448238bc818) | [DP - 도둑질](https://cherry-molybdenum-e4f.notion.site/d3c59ff2f5194175a9edd19147f56478) | [SORT - H-Index](https://righteous-galette-116.notion.site/H-Index-a2ab09c7fb0747b695326cd58ccc1264) | [DP - 등굣길](https://sh-hyun.tistory.com/82) |
+| 2회차 | [그래프](https://tranquil-trumpet-3a4.notion.site/2-DFS-BFS-7fb0861e725f44c8affb94247357389e) | [그래프 - 여행경로](https://cherry-molybdenum-e4f.notion.site/e8ff06eed59140ddace99409df8e70a4) | [그래프 - 단어변환](https://righteous-galette-116.notion.site/e0b4c64b284f4df0bf8a21fc6442b8d3) | [그래프 - 네트워크](https://sh-hyun.tistory.com/88) |
