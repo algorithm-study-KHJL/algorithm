@@ -31,5 +31,5 @@
 ## 학습 내용 포스팅 링크
 | 스터디 회차 | [김지수](https://github.com/JisooKim-f1b) | [이채연](https://github.com/202002538) | [정지은](https://github.com/ssstopeun) | [현상혁](https://github.com/gmelon) |
 | :---: | :---: | :---: | :---: | :---: |
-| 1회차 |  |  |  |  |
-| 2회차 |  |  |  |  |
+| 1회차 |  |  |  | [DP - 등굣길](https://sh-hyun.tistory.com/82) |
+| 2회차 |  |  |  | [그래프 - 네트워크](https://sh-hyun.tistory.com/88) |
