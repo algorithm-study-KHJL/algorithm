@@ -22,14 +22,20 @@
 - 각자 공부한 내용 정리
 
 ## 스터디 진도표
-| 스터디 회차 | 학습 내용 | 스터디 (예정) 일자 | 진행 여부 |
+| 스터디 회차 | 학습 내용 (풀이할 문제들) | 스터디 (예정) 일자 | 진행 여부 |
 | :---: | :---: | :---: | :---: |
 | 0회차 | 사전 회의 | 2023.03.10 (금) | ✅ |
-| 1회차 | DP | 2023.03.16 (목) | ✅ |
-| 2회차 | 그래프 (dfs, bfs) | 2023.03.23 (목) | ✅ |
+| 1회차 | [DP, 정렬](https://github.com/algorithm-study-KHJL/algorithm/blob/main/docs/2023-03-16.md) | 2023.03.16 (목) | ✅ |
+| 2회차 | [DFS, BFS](https://github.com/algorithm-study-KHJL/algorithm/blob/main/docs/2023-03-23.md) | 2023.03.23 (목) | ✅ |
+| 3회차 | [Graph, greedy](https://github.com/algorithm-study-KHJL/algorithm/blob/main/docs/2023-03-30.md) | 2023.03.30 (목) |  |
+| 4회차 | Hash, 이분탐색 | 2023.04.06 (목) |  |
+| 5회차 | Stack, Heap, 완전탐색 | 2023.04.13 (목) |  |
 
-## 학습 내용 포스팅 링크
+## 발표 문제 설명 포스트 링크
 | 스터디 회차 | [김지수](https://github.com/JisooKim-f1b) | [이채연](https://github.com/202002538) | [정지은](https://github.com/ssstopeun) | [현상혁](https://github.com/gmelon) |
 | :---: | :---: | :---: | :---: | :---: |
 | 1회차 | [DP](https://tranquil-trumpet-3a4.notion.site/1-DP-082531614bef47f68fd8b448238bc818) | [DP - 도둑질](https://cherry-molybdenum-e4f.notion.site/d3c59ff2f5194175a9edd19147f56478) | [SORT - H-Index](https://righteous-galette-116.notion.site/H-Index-a2ab09c7fb0747b695326cd58ccc1264) | [DP - 등굣길](https://sh-hyun.tistory.com/82) |
 | 2회차 | [그래프](https://tranquil-trumpet-3a4.notion.site/2-DFS-BFS-7fb0861e725f44c8affb94247357389e) | [그래프 - 여행경로](https://cherry-molybdenum-e4f.notion.site/e8ff06eed59140ddace99409df8e70a4) | [그래프 - 단어변환](https://righteous-galette-116.notion.site/e0b4c64b284f4df0bf8a21fc6442b8d3) | [그래프 - 네트워크](https://sh-hyun.tistory.com/88) |
+| 3회차 |  |  |  |  |
+| 4회차 |  |  |  |  |
+| 5회차 |  |  |  |  |
