@@ -36,6 +36,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 | 1회차 | [DP - 사칙연산](https://tranquil-trumpet-3a4.notion.site/1-DP-082531614bef47f68fd8b448238bc818) | [DP - 도둑질](https://cherry-molybdenum-e4f.notion.site/d3c59ff2f5194175a9edd19147f56478) | [SORT - H-Index](https://righteous-galette-116.notion.site/H-Index-a2ab09c7fb0747b695326cd58ccc1264) | [DP - 등굣길](https://sh-hyun.tistory.com/82) |
 | 2회차 | [DFS/BFS - 아이템 줍기](https://tranquil-trumpet-3a4.notion.site/2-DFS-BFS-7fb0861e725f44c8affb94247357389e) | [DFS/BFS - 여행경로](https://cherry-molybdenum-e4f.notion.site/e8ff06eed59140ddace99409df8e70a4) | [DFS/BFS - 단어변환](https://righteous-galette-116.notion.site/e0b4c64b284f4df0bf8a21fc6442b8d3) | [DFS/BFS - 네트워크](https://sh-hyun.tistory.com/88) |
-| 3회차 | [그래프 - 순위](https://tranquil-trumpet-3a4.notion.site/3-6947ab1f7c4a491596950b9e4cd85270)  |  |  | [그래프 - 가장 먼 노드](https://sh-hyun.tistory.com/91) |
+| 3회차 | [그래프 - 순위](https://tranquil-trumpet-3a4.notion.site/3-6947ab1f7c4a491596950b9e4cd85270)  | [탐욕법 - 섬 연결하기](https://cherry-molybdenum-e4f.notion.site/59375f97903147919fafe87dd7ac9da7) |  | [그래프 - 가장 먼 노드](https://sh-hyun.tistory.com/91) |
 | 4회차 |  |  |  |  |
 | 5회차 |  |  |  |  |
