@@ -27,7 +27,7 @@
 | 0회차 | 사전 회의 | 2023.03.10 (금) | ✅ |
 | 1회차 | [DP, 정렬](https://github.com/algorithm-study-KHJL/algorithm/blob/main/docs/2023-03-16.md) | 2023.03.16 (목) | ✅ |
 | 2회차 | [DFS, BFS](https://github.com/algorithm-study-KHJL/algorithm/blob/main/docs/2023-03-23.md) | 2023.03.23 (목) | ✅ |
-| 3회차 | [Graph, greedy](https://github.com/algorithm-study-KHJL/algorithm/blob/main/docs/2023-03-30.md) | 2023.03.30 (목) |  |
+| 3회차 | [Graph, greedy](https://github.com/algorithm-study-KHJL/algorithm/blob/main/docs/2023-03-30.md) | 2023.03.30 (목) | ✅ |
 | 4회차 | Hash, 이분탐색 | 2023.04.06 (목) |  |
 | 5회차 | Stack, Heap, 완전탐색 | 2023.04.13 (목) |  |
 
