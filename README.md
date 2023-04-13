@@ -28,8 +28,8 @@
 | 1회차 | [DP, 정렬](https://github.com/algorithm-study-KHJL/algorithm/blob/main/docs/2023-03-16.md) | 2023.03.16 (목) | ✅ |
 | 2회차 | [DFS, BFS](https://github.com/algorithm-study-KHJL/algorithm/blob/main/docs/2023-03-23.md) | 2023.03.23 (목) | ✅ |
 | 3회차 | [Graph, greedy](https://github.com/algorithm-study-KHJL/algorithm/blob/main/docs/2023-03-30.md) | 2023.03.30 (목) | ✅ |
-| 4회차 | Hash, 이분탐색 | 2023.04.06 (목) |  |
-| 5회차 | Stack, Heap, 완전탐색 | 2023.04.13 (목) |  |
+| 4회차 | Hash, 이분탐색 | 2023.04.06 (목) | ✅ |
+| 5회차 | Stack, Heap, 완전탐색 | 2023.04.13 (목) | ✅ |
 
 ## 발표 문제 설명 포스트 링크
 | 스터디 회차 | [김지수](https://github.com/JisooKim-f1b) | [이채연](https://github.com/202002538) | [정지은](https://github.com/ssstopeun) | [현상혁](https://github.com/gmelon) |
