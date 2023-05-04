@@ -10,6 +10,7 @@
 <details>
 <summary>이전 스터디 진행 내용</summary>
 <div markdown="1">
+
 ## Rules
 ### 스터디 전
 - 매주 정해진 문제 목록 각자 전부 풀어오기
