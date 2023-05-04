@@ -5,7 +5,7 @@
 ## 스터디 팀원
 | [<img src="https://github.com/fob-Ji.png" width="150px">](https://github.com/fob-Ji) | [<img src="https://github.com/202002538.png" width="150px">](https://github.com/202002538) | [<img src="https://github.com/ssstopeun.png" width="150px">](https://github.com/ssstopeun) | [<img src="https://github.com/gmelon.png" width="150px">](https://github.com/gmelon) |
 | :---: | :---: | :---: | :---: |
-| [김지수](https://github.com/JisooKim-f1b) | [이채연](https://github.com/202002538) | [정지은](https://github.com/ssstopeun) | [현상혁](https://github.com/gmelon) | 
+| [김지수](https://github.com/fob-Ji) | [이채연](https://github.com/202002538) | [정지은](https://github.com/ssstopeun) | [현상혁](https://github.com/gmelon) | 
 
 ## Rules
 ### 스터디 전
