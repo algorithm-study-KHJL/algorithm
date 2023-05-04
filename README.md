@@ -3,7 +3,7 @@
 - 알고리즘 문제 풀이 및 토론 스터디
 
 ## 스터디 팀원
-| [<img src="https://github.com/JisooKim-f1b.png" width="150px">](https://github.com/JisooKim-f1b) | [<img src="https://github.com/202002538.png" width="150px">](https://github.com/202002538) | [<img src="https://github.com/ssstopeun.png" width="150px">](https://github.com/ssstopeun) | [<img src="https://github.com/gmelon.png" width="150px">](https://github.com/gmelon) |
+| [<img src="https://github.com/fob-Ji.png" width="150px">](https://github.com/fob-Ji) | [<img src="https://github.com/202002538.png" width="150px">](https://github.com/202002538) | [<img src="https://github.com/ssstopeun.png" width="150px">](https://github.com/ssstopeun) | [<img src="https://github.com/gmelon.png" width="150px">](https://github.com/gmelon) |
 | :---: | :---: | :---: | :---: |
 | [김지수](https://github.com/JisooKim-f1b) | [이채연](https://github.com/202002538) | [정지은](https://github.com/ssstopeun) | [현상혁](https://github.com/gmelon) | 
 
@@ -32,7 +32,7 @@
 | 5회차 | Stack, Heap, 완전탐색 | 2023.04.13 (목) | ✅ |
 
 ## 발표 문제 설명 포스트 링크
-| 스터디 회차 | [김지수](https://github.com/JisooKim-f1b) | [이채연](https://github.com/202002538) | [정지은](https://github.com/ssstopeun) | [현상혁](https://github.com/gmelon) |
+| 스터디 회차 | [김지수](https://github.com/fob-Ji) | [이채연](https://github.com/202002538) | [정지은](https://github.com/ssstopeun) | [현상혁](https://github.com/gmelon) |
 | :---: | :---: | :---: | :---: | :---: |
 | 1회차 | [DP - 사칙연산](https://tranquil-trumpet-3a4.notion.site/1-DP-082531614bef47f68fd8b448238bc818) | [DP - 도둑질](https://cherry-molybdenum-e4f.notion.site/d3c59ff2f5194175a9edd19147f56478) | [SORT - H-Index](https://righteous-galette-116.notion.site/H-Index-a2ab09c7fb0747b695326cd58ccc1264) | [DP - 등굣길](https://sh-hyun.tistory.com/82) |
 | 2회차 | [DFS/BFS - 아이템 줍기](https://tranquil-trumpet-3a4.notion.site/2-DFS-BFS-7fb0861e725f44c8affb94247357389e) | [DFS/BFS - 여행경로](https://cherry-molybdenum-e4f.notion.site/e8ff06eed59140ddace99409df8e70a4) | [DFS/BFS - 단어변환](https://righteous-galette-116.notion.site/e0b4c64b284f4df0bf8a21fc6442b8d3) | [DFS/BFS - 네트워크](https://sh-hyun.tistory.com/88) |
